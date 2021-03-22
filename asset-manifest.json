@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/autoop_mturk/static/css/main.c0378388.chunk.css",
+    "main.js": "/autoop_mturk/static/js/main.b60a6c5d.chunk.js",
+    "main.js.map": "/autoop_mturk/static/js/main.b60a6c5d.chunk.js.map",
+    "runtime-main.js": "/autoop_mturk/static/js/runtime-main.3fc18efb.js",
+    "runtime-main.js.map": "/autoop_mturk/static/js/runtime-main.3fc18efb.js.map",
+    "static/js/2.f2f64dc4.chunk.js": "/autoop_mturk/static/js/2.f2f64dc4.chunk.js",
+    "static/js/2.f2f64dc4.chunk.js.map": "/autoop_mturk/static/js/2.f2f64dc4.chunk.js.map",
+    "static/js/3.7b1f2b04.chunk.js": "/autoop_mturk/static/js/3.7b1f2b04.chunk.js",
+    "static/js/3.7b1f2b04.chunk.js.map": "/autoop_mturk/static/js/3.7b1f2b04.chunk.js.map",
+    "index.html": "/autoop_mturk/index.html",
+    "static/css/main.c0378388.chunk.css.map": "/autoop_mturk/static/css/main.c0378388.chunk.css.map",
+    "static/js/2.f2f64dc4.chunk.js.LICENSE.txt": "/autoop_mturk/static/js/2.f2f64dc4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fc18efb.js",
+    "static/js/2.f2f64dc4.chunk.js",
+    "static/css/main.c0378388.chunk.css",
+    "static/js/main.b60a6c5d.chunk.js"
+  ]
+}
